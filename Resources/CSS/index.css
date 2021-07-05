@@ -5,4 +5,4 @@ th, td {padding: 15px; text-align: left;}
 tr:nth-child(even) {background-color: MistyRose;}
 .code {font-family: Courier, Monaco, monospace; font-size: 13px;}
 html, body { width: 100%;text-align: center; background-color: FloralWhite;}
-h1, h2, ul {color: FireBrick; font-family: Helvetica;}
+h1, h2, ul {color: rgb(235, 52, 52); font-family: Helvetica;}
